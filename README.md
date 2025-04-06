@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Conquering GITHUB 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Langalibalele Cele]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -8,10 +8,10 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 💡 I'm currently learning learning how to become a sofware developer to merge my previous educational backgroud.
+- 🎓 I am looking forward to learn about Java and how I incoporate it in building a strong code background.
+- 🤖 I cant wait to solve problems but also build my own business website.
+- 🔥 I want to see how I become entreprenuer using the skills I learn here.
 
 ---
 
@@ -32,10 +32,9 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- Communication
+- Design Thinking
+- Problem Solving
 
 ---
 
@@ -66,18 +65,19 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/langak)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/langalibalele-cele-475890116/)  
+📧 Email: [youremail@example.com](mailto:langakdlamini@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I am a music lover at heart playing with the ability to play different musical instruments
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=langak&show_icons=true&theme=radical)
+
